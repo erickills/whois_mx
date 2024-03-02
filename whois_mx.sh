@@ -1,4 +1,4 @@
-# Author: erickills@githhub
+# Author: erickills@githhub.com
 
 #!/bin/bash
 
